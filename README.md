@@ -1,2 +1,2 @@
-# Automated—Testing
+# AutomatedTesting
   Automated Testing
